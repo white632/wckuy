@@ -11,9 +11,9 @@
 </div>
 <div align= "left">
 
-  ### Frok ᴡᴄᴋʏʏ-MD Repository
+  ### ꜰᴏʀᴋ ᴡᴄᴋʏʏ-ᴍᴅ 𝔯𝔢𝔭𝔬𝔰𝔦𝔱𝔬𝔯𝔶
 <a href="https://github.com/DarkMakerofc/ZUSYCO-MD/fork"><img src="https://i.ibb.co/Yj3tZdZ/fork-zusyco-btn.png" alt="NIMA" border="2" width="155" height="46" ></a>
-  ### Link Bot To Your Whatsapp.
+  ### ʟɪɴᴋ ᴡᴄᴋʏʏ-ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɴᴜᴍʙᴇᴇʀ.
   
 <a href="https://gpt-qr-code.onrender.com/zusyco"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
 
@@ -22,23 +22,6 @@
   #### Upload QR File
   <i>Upload Your **ZUSYCO-QR.nima** File </i>
 
-  ### DEPLOY USING YOUR HOST
-  
-> DEPLOY ON HEROKU<br>
-
-◍ Copy This Url, Put Like This <template_link><your_github_link>
-
-      https://heroku.com/deploy?template=
-
-  <br>
-  
-> DEPLOY ON REPLIT<br>
-
-◍ Import To Replit
-
-<a href="https://replit.com/github/"><img src="https://i.ibb.co/0F5q3Fp/run-on-replit-zusyco-btn.png" alt="--NIMA" border="2" width="170" height="40" ></a>
-
-◍ Deploy Using Template
-  
-<a href="https://replit.com/@MRNima/ZUSYCO-MD?v=1"><img src="https://i.ibb.co/YNwCMsp/zusyco-replit-template-btn.png" alt="--NIMA" border="2" width="170" height="46" ></a>
+  ### ᴅᴇᴘʟᴏᴛ ᴜꜱɪɴɢ ʏᴏᴜʀ ʜᴏꜱᴛ
+  *ᴅᴇᴘʟᴏʏ ᴏɴ ɢɪᴛʜᴜʙ ᴛʜʀᴏᴜɢɢʜ ᴡᴏʀᴋꜰʟᴏᴡ
 # Author : [@ᴡᴄᴋʏʏʏ ᴍᴅ]
