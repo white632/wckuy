@@ -1,6 +1,6 @@
 <div align="center" class= "main"> 
   <img src="https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg" width="300" height="300"/>
-  <h1>ＺＵＳＹＣＯ - ＭＤ</h1>
+  <h1>ᴡᴄᴋʏʏ - ＭＤ</h1>
 
 <a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
 <br>
@@ -11,7 +11,7 @@
 </div>
 <div align= "left">
 
-  ### Frok ZUSYCO-MD Repository
+  ### Frok ᴡᴄᴋʏʏ-MD Repository
 <a href="https://github.com/DarkMakerofc/ZUSYCO-MD/fork"><img src="https://i.ibb.co/Yj3tZdZ/fork-zusyco-btn.png" alt="NIMA" border="2" width="155" height="46" ></a>
   ### Link Bot To Your Whatsapp.
   
