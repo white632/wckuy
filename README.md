@@ -14,8 +14,7 @@
   ### ꜰᴏʀᴋ ᴡᴄᴋʏʏ-ᴍᴅ 𝔯𝔢𝔭𝔬𝔰𝔦𝔱𝔬𝔯𝔶
 <a href="https://github.com/DarkMakerofc/ZUSYCO-MD/fork"><img src="https://i.ibb.co/Yj3tZdZ/fork-zusyco-btn.png" alt="NIMA" border="2" width="155" height="46" ></a>
   ### ʟɪɴᴋ ᴡᴄᴋʏʏ-ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɴᴜᴍʙᴇᴇʀ.
-  
-<a href="https://gpt-qr-code.onrender.com/zusyco"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="SCAN-QR" border="2" width="170" height="40" ></a>
+
 
 <a href="https://replit.com/@MRNima/ZUSYCO-PAIR-CODE?v=1"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
@@ -25,3 +24,4 @@
   ### ᴅᴇᴘʟᴏᴛ ᴜꜱɪɴɢ ʏᴏᴜʀ ʜᴏꜱᴛ
   *ᴅᴇᴘʟᴏʏ ᴏɴ ɢɪᴛʜᴜʙ ᴛʜʀᴏᴜɢɢʜ ᴡᴏʀᴋꜰʟᴏᴡ
 # Author : [@ᴡᴄᴋʏʏʏ ᴍᴅ]
+# 𝔬𝔴𝔫𝔢𝔯    : @𝔴𝔠𝔨𝔶𝔶𝔶 #𝔴𝔞.𝔪𝔢//0714500434
