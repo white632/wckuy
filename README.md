@@ -18,10 +18,12 @@
 
 <a href="https://replit.com/@MRNima/ZUSYCO-PAIR-CODE?v=1"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
-  #### Upload QR File
+  #### ᴜᴘʟᴏᴀᴅ ʏᴏᴜʀ ᴘᴀɪʀ ꜰɪʟᴇ 
   <i>Upload Your **ZUSYCO-QR.nima** File </i>
 
   ### ᴅᴇᴘʟᴏᴛ ᴜꜱɪɴɢ ʏᴏᴜʀ ʜᴏꜱᴛ
   *ᴅᴇᴘʟᴏʏ ᴏɴ ɢɪᴛʜᴜʙ ᴛʜʀᴏᴜɢɢʜ ᴡᴏʀᴋꜰʟᴏᴡ
 # Author : [@ᴡᴄᴋʏʏʏ ᴍᴅ]
-# 𝔬𝔴𝔫𝔢𝔯    : @𝔴𝔠𝔨𝔶𝔶𝔶 #𝔴𝔞.𝔪𝔢//0714500434
+# 𝔬𝔴𝔫𝔢𝔯    : ᴡᴄᴋʏʏʏ
+<a href="https://wa.me//263714500434?v=1"><img src="https://i.ibb.co/5BGSVZw/whatsapp-btn.zusyco.png" alt="WHATSAPP HELP DEPLOYING" border="2" width="170" height="41" ></a>
+#ɴᴏ ɴᴇᴇᴅ ᴛᴏ ꜰᴏʀᴋ ᴄᴢ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ɪꜱ ᴅɪꜱᴀʙʟᴇᴅ ꜱꜱ ᴅᴅ ɪᴍᴘᴏʀᴛ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
