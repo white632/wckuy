@@ -17,7 +17,7 @@ Creator : @darkmakerofc , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "263714500434",
-  SUDO_NUMBERS : "94766632281,94701628336",
+  SUDO_NUMBERS : "263714500434,2637845111419",
   OWNER_NAME: "ᴡᴄᴋʏʏʏ",
   BOT_NAME : "ᴡᴄᴋʏʏ ʙᴏᴛ",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -35,14 +35,14 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '*ᴡᴄᴋʏʏʏ ʙᴏᴛ 🇪 🇾 *',
+  CAPTION : 'ᴡᴄᴋʏʏ-ʙᴏᴛ 🇱 🇴 🇱 ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 500,
+  MAX_SIZE : 50000,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
