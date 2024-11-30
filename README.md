@@ -2,11 +2,11 @@
   <img src="https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg" width="300" height="300"/>
   <h1>ᴡᴄᴋʏʏ - ＭＤ</h1>
 
-<a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-ᴡᴄᴋʏʏ-red.svg?style=for-the-badge&logo=github"></a>
 <br>
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/darkmakerofc?color=green&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/ZUSYCO-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/ZUSYCO-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ᴡᴄᴋʏʏ/ᴡᴄᴋʏʏ-ʙᴏᴛ ᴍᴅ?color=white&style=flat-square"></a>
+<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ᴡᴄᴋʏʏ/ᴡᴄᴋʏʏ-ʙᴏᴛ ᴍᴅ?color=yellow&style=flat-square"></a>
 <br><br>
 </div>
 <div align= "left">
