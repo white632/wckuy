@@ -12,7 +12,7 @@
 <div align= "left">
 
   ### ꜰᴏʀᴋ ᴡᴄᴋʏʏ-ᴍᴅ 𝔯𝔢𝔭𝔬𝔰𝔦𝔱𝔬𝔯𝔶
-<a href="https://github.com/DarkMakerofc/ZUSYCO-MD/fork"><img src="https://i.ibb.co/Yj3tZdZ/fork-zusyco-btn.png" alt="NIMA" border="2" width="155" height="46" ></a>
+ɴᴏ ɴᴇᴇᴅ ᴛᴏ ꜰᴏʀᴋ ʙᴇᴄᴀᴜꜱᴇ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴡᴀꜱ ᴅɪꜱᴀʙʟᴇᴅ ...ꜱᴏ ᴅᴏ ɪᴍᴘᴏʀᴛ ʀᴇᴘᴏꜱɪᴛᴏʀʏ 
   ### ʟɪɴᴋ ᴡᴄᴋʏʏ-ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɴᴜᴍʙᴇᴇʀ.
 
 
@@ -25,5 +25,6 @@
   *ᴅᴇᴘʟᴏʏ ᴏɴ ɢɪᴛʜᴜʙ ᴛʜʀᴏᴜɢɢʜ ᴡᴏʀᴋꜰʟᴏᴡ
 # Author : [@ᴡᴄᴋʏʏʏ ᴍᴅ]
 # 𝔬𝔴𝔫𝔢𝔯    : ᴡᴄᴋʏʏʏ
+#### ᴡʜᴀᴛꜱᴀᴘᴘ ʜᴇʟᴘ
 <a href="https://wa.me//263714500434?v=1"><img src="https://i.ibb.co/5BGSVZw/whatsapp-btn.zusyco.png" alt="WHATSAPP HELP DEPLOYING" border="2" width="170" height="41" ></a>
-#ɴᴏ ɴᴇᴇᴅ ᴛᴏ ꜰᴏʀᴋ ᴄᴢ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ɪꜱ ᴅɪꜱᴀʙʟᴇᴅ ꜱꜱ ᴅᴅ ɪᴍᴘᴏʀᴛ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
+
