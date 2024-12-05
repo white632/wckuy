@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : 'ᴡᴄᴋʏʏ-ʙᴏᴛ 🇱 🇴 🇱 ',
+  CAPTION : 'ʟʏʀɪᴄ ᴠɪʙᴇꜱ ☆ ᴍᴜꜱɪᴄ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
